@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Movies>
+  <Movie>
+    <Name>A Mighty Heart</Name>
+    <Year>2009</Year>
+    <Genre>No Genre</Genre>
+    <Cast>Shriyas, Nikita</Cast>
+  </Movie>
+  <Movie>
+    <Name>A Scanner Darkly</Name>
+    <Year>2010</Year>
+    <Genre>Drama, Crime, Animation</Genre>
+    <Cast>Keanu Reeves</Cast>
+  </Movie>
+  <Movie>
+    <Name>Afro Samurai: Resurrection</Name>
+    <Year>2009</Year>
+    <Genre>Animation, Action</Genre>
+    <Cast>No Cast</Cast>
+  </Movie>
+  <Movie>
+    <Name>Batman: Gotham Knight</Name>
+    <Year>2009</Year>
+    <Genre>Animation, Action</Genre>
+    <Cast>Batman</Cast>
+  </Movie>
+  <Movie>
+    <Name>Bedtime Stories</Name>
+    <Year>2009</Year>
+    <Genre>Drama, Comedy</Genre>
+    <Cast>Adam Sanders, Courtney Cox</Cast>
+  </Movie>
+  <Movie>
+    <Name>2018</Name>
+    <Genre>Drama</Genre>
+    <Year>2010</Year>
+    <Cast>Tovino and Asif</Cast>
+  </Movie>
+  <Movie>
+    <Name>No Remorse</Name>
+    <Genre>Action</Genre>
+    <Year>2010</Year>
+    <Cast>Michael B Jordan</Cast>
+  </Movie>
+  <Movie>
+    <Name>Leo</Name>
+    <Genre>Action, Thriller</Genre>
+    <Year>2010</Year>
+    <Cast>Thalapathy Vijay</Cast>
+  </Movie>
+  <Movie>
+    <Name>Batman</Name>
+    <Genre>Comics, Action, Crime, Thriller</Genre>
+    <Year>2010</Year>
+    <Cast>Rober Pattinson, Zoe Kravitz</Cast>
+  </Movie>
+</Movies>
